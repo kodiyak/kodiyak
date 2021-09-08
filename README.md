@@ -7,11 +7,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=math536&theme=midnight-purple&hide_border=true" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodiyak&layout=compact&theme=midnight-purple&hide_border=true)
-
-
-
-
 <!--
 **kodiyak/kodiyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
