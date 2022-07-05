@@ -7,8 +7,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=math536&theme=midnight-purple&hide_border=true" />
 </div>
 
-<iframe style="height:300px; width:300px;" src="https://demo.sli.dev/composable-vue/11?clicks=1" />
-
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/github@kodiyak/count.svg" /></p> 
 
 <!--
