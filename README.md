@@ -13,8 +13,6 @@
   
 </div>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/github@kodiyak/count.svg" /></p> 
-
 <!--
 **kodiyak/kodiyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
